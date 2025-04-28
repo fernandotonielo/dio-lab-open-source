@@ -1,3 +1,5 @@
+## Contribuição de Douglas Fernando Tonielo
+Sou apaixonado por tecnologia, estou aprendendo mais sobre IA e UX e animado para fazer parte da comunidade open source!
 <h1>
     <a href="https://www.dio.me/">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
